@@ -5,7 +5,7 @@ mover minhas informações/movimenta-las) */
 }
 
 /* Faço uma linha com os itens */
-.row {
+.row{
     flex-direction: row;
 }
 
@@ -19,13 +19,13 @@ ele inverte (4321) */
     flex-direction: column;
 }
 
-.columns-reverse {
+.columns-reverse{
     flex-direction: column-reverse;
 }
 
-.container {
+.container{
     max-width: 400px;
-    margin: 0;
+    margin: 0 auto;
     display: flex;
     border: 1px solid #cccccc;
 }
